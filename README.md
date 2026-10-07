@@ -1,6 +1,6 @@
 # NYC Holiday Concierge
 
-![NYC Holiday Concierge Prototype](nyc-holiday-concierge-prototype.png)
+![NYC Holiday Concierge Prototype](NYC%20Holiday%20Concierge%20Prototype.png)
 
 A conversational AI event concierge built with ElevenLabs to make evolving trip logistics easier to access through voice, text, and QR.
 
