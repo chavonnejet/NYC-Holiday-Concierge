@@ -162,7 +162,7 @@ This repository contains a sanitized portfolio version of the project.
 
 No confidential company information, employee contact information, reservation confirmation numbers, financial data, or other sensitive internal information is included.
 
-The public portfolio does not expose the live production/share link.
+The QR code provides access to a live demonstration of the prototype agent. The agent uses sanitized event planning information and contains no confidential company, employee, reservation, or sensitive business data. 
 
 ## Status
 
